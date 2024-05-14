@@ -7,5 +7,5 @@ Description: Develop a machine learning model to detect fraudulent transactions 
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
+<img src="demo/1.png.png" alt="workflow" width="70%">
 
